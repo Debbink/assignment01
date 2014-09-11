@@ -27,7 +27,7 @@ Students should obtain the following books:
 
 + Matloff, N  (2011).  [The Art of R Programming.](http://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_1?s=books&ie=UTF8&qid=1410451610&sr=1-1&keywords=the+art+of+r+programming)
 
-+ Chacon, S (2010). ProGit.
++ Chacon, S (2010). [ProGit.](http://www.amazon.com/Pro-Git-Scott-Chacon/dp/1430218339/ref=sr_1_1?s=books&ie=UTF8&qid=1410451700&sr=1-1&keywords=progit)
 
 __Additional Materials and Software__  
 Supplemental YouTube videos and online tutorials will be assigned.  
