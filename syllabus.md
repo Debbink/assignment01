@@ -25,7 +25,7 @@ Students should obtain the following books:
 
 + Dalgaard, P (2008).  [Introductory Statistics with R, 2nd edition.](http://www.amazon.com/Introductory-Statistics-Computing-Dalgaard-Paperback/dp/B00BR5K43K/ref=sr_1_3?s=books&ie=UTF8&qid=1410451489&sr=1-3&keywords=introductory+statistics+with+r+2nd+edition)
 
-+ Matloff, N  (2011).  The Art of R Programming.
++ Matloff, N  (2011).  [The Art of R Programming.](http://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843/ref=sr_1_1?s=books&ie=UTF8&qid=1410451610&sr=1-1&keywords=the+art+of+r+programming)
 
 + Chacon, S (2010). ProGit.
 
