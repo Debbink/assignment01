@@ -21,7 +21,7 @@ _Grades will be assigned based on students’ performance in the Friday laborato
 __Textbooks__  
 Students should obtain the following books:
 
-+ Buffalo, V (2014). Bioinformatics Data Skills.
++ Buffalo, V (2014). [Bioinformatics Data Skills.](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372)
 
 + Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition.
 
