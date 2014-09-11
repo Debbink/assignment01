@@ -29,6 +29,6 @@ Students should obtain the following books:
 
 + Chacon, S (2010). ProGit.
 
-Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
+__Additional materials__Supplemental YouTube videos and online tutorials will be assigned.
  
 Software. You will need to install R and Rstudio
