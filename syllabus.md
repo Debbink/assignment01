@@ -23,7 +23,7 @@ Students should obtain the following books:
 
 + Buffalo, V (2014). [Bioinformatics Data Skills.](http://www.amazon.com/Bioinformatics-Data-Skills-Reproducible-Research/dp/1449367372)
 
-+ Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition.
++ Dalgaard, P (2008).  [Introductory Statistics with R, 2nd edition.](http://www.amazon.com/Introductory-Statistics-Computing-Dalgaard-Paperback/dp/B00BR5K43K/ref=sr_1_3?s=books&ie=UTF8&qid=1410451489&sr=1-3&keywords=introductory+statistics+with+r+2nd+edition)
 
 + Matloff, N  (2011).  The Art of R Programming.
 
