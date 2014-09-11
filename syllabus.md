@@ -31,4 +31,4 @@ Students should obtain the following books:
 
 __Additional Materials and Software__  
 Supplemental YouTube videos and online tutorials will be assigned.  
-You will need to install [R](http://www.r-project.org/) and Rstudio.
+You will need to install [R](http://www.r-project.org/) and [Rstudio](http://www.rstudio.com/products/rstudio/download/).
